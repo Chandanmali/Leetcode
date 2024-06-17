@@ -17,8 +17,14 @@
 # Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Chandanmali/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Chandanmali/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 # Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Chandanmali/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Chandanmali/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+# Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Chandanmali/Leetcode/tree/master/0074-search-a-2d-matrix) |
