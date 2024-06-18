@@ -18,6 +18,7 @@
 # Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Chandanmali/Leetcode/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/Chandanmali/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Chandanmali/Leetcode/tree/master/0075-sort-colors) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Chandanmali/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -44,6 +45,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Chandanmali/Leetcode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Chandanmali/Leetcode/tree/master/0268-missing-number) |
 # Bit Manipulation
 |  |
