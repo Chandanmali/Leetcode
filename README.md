@@ -23,6 +23,7 @@
 | [0075-sort-colors](https://github.com/Chandanmali/Leetcode/tree/master/0075-sort-colors) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Chandanmali/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Chandanmali/Leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chandanmali/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 # Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Chandanmali/Leetcode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Chandanmali/Leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chandanmali/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 # Bit Manipulation
 |  |
 | ------- |
