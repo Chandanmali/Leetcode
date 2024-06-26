@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Chandanmali/Leetcode/tree/master/0268-missing-number) |
+| [1585-the-kth-factor-of-n](https://github.com/Chandanmali/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2507-number-of-common-factors](https://github.com/Chandanmali/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2752-sum-multiples](https://github.com/Chandanmali/Leetcode/tree/master/2752-sum-multiples) |
 # Enumeration
@@ -14,6 +15,7 @@
 # Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Chandanmali/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2507-number-of-common-factors](https://github.com/Chandanmali/Leetcode/tree/master/2507-number-of-common-factors) |
 # Array
 |  |
