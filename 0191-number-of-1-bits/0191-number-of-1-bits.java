@@ -10,14 +10,14 @@ class Solution {
             n = n / 2;
         }
 
-        for(int i = 1; i < binary.length(); i++)
+        for(int i = 0; i < binary.length(); i++)
         {
             if(binary.charAt(i) == '1')
             {
                 count++;
             }
         }
-        return count+1;
+        return count;
         
     }
 }
