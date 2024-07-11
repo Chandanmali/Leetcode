@@ -72,6 +72,7 @@
 | [0007-reverse-integer](https://github.com/Chandanmali/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Chandanmali/Leetcode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Chandanmali/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Chandanmali/Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chandanmali/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Chandanmali/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2481-strictly-palindromic-number](https://github.com/Chandanmali/Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -95,9 +96,26 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Chandanmali/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Chandanmali/Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chandanmali/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Chandanmali/Leetcode/tree/master/0191-number-of-1-bits) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Chandanmali/Leetcode/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Chandanmali/Leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Chandanmali/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Chandanmali/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
