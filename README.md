@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Chandanmali/Leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Chandanmali/Leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Chandanmali/Leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Chandanmali/Leetcode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
