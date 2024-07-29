@@ -109,6 +109,7 @@
 | [0792-binary-search](https://github.com/Chandanmali/Leetcode/tree/master/0792-binary-search) |
 | [1677-matrix-diagonal-sum](https://github.com/Chandanmali/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1848-sum-of-unique-elements](https://github.com/Chandanmali/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/Chandanmali/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,4 +132,5 @@
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/Chandanmali/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/Chandanmali/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
