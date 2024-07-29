@@ -107,6 +107,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Chandanmali/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Chandanmali/Leetcode/tree/master/0792-binary-search) |
+| [1677-matrix-diagonal-sum](https://github.com/Chandanmali/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1848-sum-of-unique-elements](https://github.com/Chandanmali/Leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Hash Table
 |  |
@@ -126,4 +127,8 @@
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/Chandanmali/Leetcode/tree/master/1848-sum-of-unique-elements) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/Chandanmali/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
