@@ -133,4 +133,8 @@
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/Chandanmali/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Chandanmali/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Chandanmali/Leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
